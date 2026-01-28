@@ -1,2 +1,2 @@
-# TS_Data.Structures
+# Thread.Safe.Data.Structures
 A library featuring various thread-safe data structures.
